@@ -1,0 +1,20 @@
+{
+  "name": "docuextract-analytics",
+  "version": "1.0.0",
+  "description": "Analytics and reporting for DocuExtract Gateway",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "keywords": [
+    "analytics",
+    "reporting",
+    "document",
+    "extraction"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
